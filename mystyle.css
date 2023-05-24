@@ -1,0 +1,72 @@
+* {
+  background-color: rgb(27, 8, 71);
+}
+
+.image {
+  border-radius: 20px;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 70px;
+  color: aliceblue;
+}
+
+.describe {
+  text-align: center;
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 40px;
+  color: aliceblue;
+}
+
+.para {
+  text-align: center;
+  font-size: x large;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 40px;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.para2 {
+  font-size: x large;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 40px;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+.steps {
+  font-size: x large;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 40px;
+  color: aliceblue;
+  font-weight: lighter;
+  row-gap: 20px;
+}
+
+.links {
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-weight: 900;
+}
+
+button {
+  color: aliceblue;
+  font-display: san serif;
+}
+
+.click {
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: aliceblue;
+  font-style: italic;
+  border-radius: 20px;
+}
